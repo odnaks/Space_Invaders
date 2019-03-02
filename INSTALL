@@ -1,0 +1,13 @@
+#!/bin/bash
+
+if read -t 10 -p "install brew? (y/n)" ans
+then
+case $ans in
+y) curl -fsSL https://rawgit.com/gcamerli/42brew/master/set.sh | zsh ;;
+n) echo "OK!" ;;
+esac
+brew install python3
+brew install hg sdl sdl_image sdl_ttf
+brew install sdl_mixer portmidi
+pip3 install --user hg+http://bitbucket.org/pygame/pygame
+fi

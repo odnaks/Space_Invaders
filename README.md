@@ -1,5 +1,5 @@
 # Space Invaders
-My version old school game "Space Invaders"
+My version of the old school game "Space Invaders"
 
 ### how to install:
 ```shell

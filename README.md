@@ -13,7 +13,7 @@ sh 1.py
 
 ![screen1](https://github.com/odnaks/-/blob/master/screens/pygame1.png)
 
-![screen2](https://github.com/odnaks/-/blob/master/screens/pygame2.png)
+![screen2](https://github.com/odnaks/-/blob/master/screens/pygame3.gif)
 
 ### how to exit:
 ```shell

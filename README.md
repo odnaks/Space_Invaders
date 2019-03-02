@@ -8,7 +8,7 @@ git clone https://github.com/odnaks/Space_Invaders.git && cd Space_Invaders && s
 
 ### how to start:
 ```shell
-sh 1.py
+python3 1.py
 ```
 
 ![screen1](https://github.com/odnaks/-/blob/master/screens/pygame1.png)
